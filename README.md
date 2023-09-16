@@ -1,3 +1,12 @@
-# Catatan progress di video menit ke 51:05 - videoplayback (41).mp4
+# Getting Started
 
-Game Portal React!
+A tic tac toe game using react and typescript.
+
+## Running Local Server
+
+```
+git clone https://github.com/mikhsanh55/tictactoe-game.git
+cd "tictactoe-game"
+npm install
+npm run dev
+```
