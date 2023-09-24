@@ -1,4 +1,4 @@
-import Board from "./components/TicTacToe/Board";
+import ProductTable from "./components/Product/Index";
 function App() {
   return (
     <main className="container">
@@ -13,7 +13,7 @@ function App() {
             </p>
           </header>
           <section className="border py-4">
-            <Board></Board>
+            <ProductTable />
           </section>
         </div>
       </div>
